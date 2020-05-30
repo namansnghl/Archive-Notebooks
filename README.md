@@ -1,2 +1,2 @@
 # learning-pytorch
-A repository to backUp my pytorch notebooks.
+A repository to backup my pytorch learning practical notebooks.
