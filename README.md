@@ -1,2 +1,2 @@
-# Deep-Learning
-A repository to backup my DL practical notebooks.
+# Blogs Notebook
+Repository keeps track of my notebooks linked to any Blogs
